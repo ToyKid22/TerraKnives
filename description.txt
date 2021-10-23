@@ -2,16 +2,14 @@ TerraKnives is a mod that adds multiple throwing knives into Terraria, each with
 
 Features:
 - Recipe for Throwing Knives
-- Over 10 new types of Throwing Knives
+- Over 13 new types of Throwing Knives
 - Unique knife abilities
 - A learning and improving developer open to feedback
 
-Currently, there are 7 new knives.
-
 Changelog (*added to changelog prior to release):
 v1.2 (latest) - Hardmode Knives (Part 1)
-- Added a small note to the changelog ^
-- Added Palladium, Cobalt, Mythril, and Orichalcum Throwing Knives
+- Added some cleanup to the changelog
+- Added Palladium, Cobalt, Mythril, Orichalcum, Titanium, and Adamantite Throwing Knives
 - Nerfed the sell price of Molten Throwing Knives by a whole [i/s10:71]. [c/ff0000:W][c/ffff00:i][c/00ff00:l][c/00ffff:d][c/0000ff:.]
 
 v1.1 - Pre-Hardmode Knives
