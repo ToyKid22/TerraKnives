@@ -1,0 +1,36 @@
+TerraKnives is a mod that adds multiple throwing knives into Terraria, each with various purposes and abilities to spice up the overlooked weapon type of throwing knives.
+
+Features:
+- Recipe for Throwing Knives
+- Over 10 new types of Throwing Knives
+- Unique knife abilities
+- A learning and improving developer open to feedback
+
+Currently, there are 7 new knives.
+
+Changelog (*added to changelog prior to release):
+v1.2 (latest) - Hardmode Knives (Part 1)
+- Added a small note to the changelog ^
+- Added Palladium, Cobalt, Mythril, and Orichalcum Throwing Knives
+- Nerfed the sell price of Molten Throwing Knives by a whole [i/s10:71]. [c/ff0000:W][c/ffff00:i][c/00ff00:l][c/00ffff:d][c/0000ff:.]
+
+v1.1 - Pre-Hardmode Knives
+- Added Meteor, Demonite, Crimtane, and Molten Throwing Knives
+- Gilded and Pointy Throwing Knives now can penetrate once
+- Changed impact dust to match knife appearances
+- Rebalanced some damage values
+- Changed some selling prices
+- Fixed hitboxes on Pointy and Rusty throwing knives
+
+v1.0.1 - Hotfixes
+- Added sounds and particles when knives hit something
+- Updated mod description
+* Fixed a hitbox bug with the Gilded Throwing Knife
+- v1.1 will be coming soon!
+
+* v1.0 - Release
+* Mod release
+* Rusty, Pointy, and Gilded Throwing Knives
+* Recipe for Throwing Knife
+
+Thanks for 800 downloads!
